@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SOBUR HOSSEN</h1>
 <h3 align="center">Building Interactive and Scalable Web Solutions</h3>
 
-<img align="right" alt="image" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="image" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🌱 I’m currently learning **advanced React concepts and enhancing my backend development skills.**
 
