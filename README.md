@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm SOBUR HOSSEN</h1>
 <h3 align="center">Building Interactive and Scalable Web Solutions</h3>
 
-<img align="right" alt="image" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="image" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🌱 I’m currently learning **advanced React concepts and enhancing my backend development skills.**
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1yz4jZK0h_0CXnyoUlaQoXa1bCCD1XyE8/view)
 
-- 👯 I’m looking to collaborate on **innovative front-end projects and React-based applications.**
+- 🌱 I’m currently learning - **advanced React concepts and enhancing my backend development skills.**
 
-- 🤝 I’m looking for help with **improving responsive design and advanced React patterns.**
+- 👯 I’m looking to collaborate on - **innovative front-end projects and React-based applications.**
 
-- 📝 I regularly write articles [setting on the moon](setting on the moon)
+- 🤝 I’m looking for help with - **improving responsive design and advanced React patterns.**
 
-- 📫 How to reach me **shsoburhossen951@gmail.com**
-
-- ⚡ Fun fact **easy to confuse me**
+- ⚡ Fun fact - **easy to confuse me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
