@@ -1,6 +1,7 @@
 <img src="https://i.postimg.cc/B6kSffck/Abstract-Technology-Profile-Linked-In-Banner.png" alt="Sobur GitHub README header image">
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="700">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true&ring=1c1a87&fire=1c1a87&currStreakLabel=1c1a87" width="700" alt="streak-stats" />
 </p>
 
 
