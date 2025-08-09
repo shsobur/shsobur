@@ -1,8 +1,8 @@
 <img src="https://i.postimg.cc/B6kSffck/Abstract-Technology-Profile-Linked-In-Banner.png" alt="Sobur GitHub README header image">
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true&ring=1c1a87&fire=1c1a87&currStreakLabel=1c1a87" width="700" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=custom&hide_border=true&background=0c0b5a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="700" alt="streak-stats" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm SOBUR HOSSEN</h1>
