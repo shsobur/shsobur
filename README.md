@@ -1,8 +1,9 @@
 ![Demo](https://github.com/shsobur/shsobur/blob/main/git.gif)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="600">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="600">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm SOBUR HOSSEN</h1>
 <h3 align="center">Building Interactive and Scalable Web Solutions</h3>
