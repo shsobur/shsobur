@@ -10,7 +10,7 @@
 
 <img align="right" alt="image" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1zLXrUgOD_KNlLM3ZcEqCeS40JS8rFoiQ/view?usp=sharing)
+- 📝 Checkout my [Resume]([https://drive.google.com/file/d/1zLXrUgOD_KNlLM3ZcEqCeS40JS8rFoiQ/view?usp=sharing](https://drive.google.com/file/d/1ckmIHXda7XLMqRA6ggMELzTXTAtkV6ns/view?usp=sharing))
 
 - 🌱 I’m currently learning - **advanced React concepts and enhancing my backend development skills.**
 
